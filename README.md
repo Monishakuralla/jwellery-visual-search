@@ -3,7 +3,7 @@
 ##  Project Overview
 AI-powered jewellery search engine where users can upload an image of jewellery and find similar-looking items from the catalog using computer vision.
 
-##  Features
+## Features
 - AI Image Recognition for Visual Search (using CNN + Faiss)
 - User Authentication with Role-based Access
 - Admin Panel for CRUD Operations
