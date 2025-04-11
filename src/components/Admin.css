@@ -1,0 +1,28 @@
+.admin-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .admin-form input,
+  .admin-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .admin-form button {
+    padding: 10px 20px;
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .admin-form button:hover {
+    background-color: #0b5ed7;
+  }
+  

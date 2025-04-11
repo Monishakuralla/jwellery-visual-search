@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Gold Necklace",
+      "image": "jwellery1.jpg",
+      "description": "Elegant handcrafted gold necklace perfect for traditional occasions.",
+      "price": "₹65,000"
+    },
+    {
+      "id": 2,
+      "name": "Emerald Bridal Necklace",
+      "image": "jwellery2.jpg",
+      "description": "Stunning bridal necklace with green emerald stones and intricate gold work.",
+      "price": "₹75,000"
+    },
+    {
+      "id": 3,
+      "name": "Diamond Drop Necklace",
+      "image": "jwellery3.jpg",
+      "description": "Sophisticated necklace featuring high-quality diamonds in a drop design.",
+      "price": "₹82,000"
+    },
+    {
+      "id": 4,
+      "name": "Ruby Princess Necklace",
+      "image": "jwellery4.jpg",
+      "description": "Luxurious necklace with rich ruby stones and gold detailing.",
+      "price": "₹58,000"
+    },
+    {
+      "id": 5,
+      "name": "Antique Temple Necklace",
+      "image": "jwellery5.jpg",
+      "description": "Traditional South Indian temple necklace with antique finish.",
+      "price": "₹91,000"
+    },
+    {
+      "id": 6,
+      "name": "Pearl & Gold Heritage Necklace",
+      "image": "jwellery6.jpg",
+      "description": "Heritage design necklace combining natural pearls and gold, ideal for festive wear.",
+      "price": "₹69,000"
+    }
+  ]
+  

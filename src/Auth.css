@@ -1,0 +1,27 @@
+.auth-form {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff6fc;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.auth-form input,
+.auth-form select {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.auth-form button {
+  padding: 8px 20px;
+  background-color: #5a2d82;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
